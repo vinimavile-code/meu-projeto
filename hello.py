@@ -1,1 +1,2 @@
-print ('hello git + VS CODE + teste')
+mensagem = "OI"
+print (mensagem)
